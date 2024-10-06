@@ -16,7 +16,7 @@ Custom WSL kernel with wifi and usb support
 #### How to use:
 1. Install WSL last version from this [[link](https://github.com/microsoft/WSL/releases)] -- note: min version of WSL should be ```2.3.24```
 2. Install last version of [usbipd](https://github.com/dorssel/usbipd-win/releases)
-3. Copy kernel file from repository to a folder in windows
+3. Download and copy ```CustomKernel-USB-WiFi``` file from repository to a folder in windows
 4. Open run(win + R) and enter: "C:\Program Files\WSL\wslsettings\wslsettings.exe"
 5. Developer section
 6. Custom kernel
